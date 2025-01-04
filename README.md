@@ -1,4 +1,4 @@
-**Comprehensive Framework for Option Pricing Models with a Focus on Monte Carlo Simulation**
+**Comprehensive Framework for Option Pricing Models with a Focus on Monte Carlo Simulation**:
 This project provides an implementation of three cornerstone models in financial option pricing: the Black-Scholes-Merton Model, the Binomial Tree Model, and the Monte Carlo Simulation. It bridges theoretical foundations with practical Python-based tools, making it ideal for financial professionals, researchers, and students exploring the intricacies of option pricing.
 
 Project Overview
